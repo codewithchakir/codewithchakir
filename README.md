@@ -1,4 +1,5 @@
 ### Hi there 👋
+![running t-rex gif](https://github.com/chakir-elarabi/chakir-elarabi/blob/main/Playing_T-Rex_Runner.gif?raw=true)
 
 <!--
 **chakir-elarabi/chakir-elarabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
