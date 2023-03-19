@@ -1,6 +1,6 @@
 <img src="https://github.com/codewithchakir/codewithchakir/blob/main/T-Rex-Game.gif?raw=true" width="100%" />
 
-###Hi there 👋
+### Hi there 👋
 
 My name is Chakir, and I am a curious and driven 21-year-old FULL STACK developer with a passion for creativity and innovation. I believe in constantly challenging myself to learn and grow.
 
