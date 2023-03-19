@@ -4,7 +4,7 @@
 My name is Chakir, and I am a curious and driven 21-year-old FULL STACK developer with a passion for creativity and innovation. I believe in constantly challenging myself to learn and grow.
 
 Skills:
-React.js | MongoDB | PHP | mySQL | JavaScript | HTML | CSS
+React.js | MongoDB | PHP | Python | mySQL | JavaScript | HTML | CSS
 
 - ⚡ I’m currently learning symfony. 
 <!--
