@@ -1,6 +1,12 @@
-### Hi there 👋
 ![running t-rex gif](https://github.com/chakir-elarabi/chakir-elarabi/blob/main/Playing_T-Rex_Runner.gif?raw=true)
+### Hi there 👋
 
+My name is Chakir, and I am a curious and driven 21-year-old FULL STACK developer with a passion for creativity and innovation. I believe in constantly challenging myself to learn and grow.
+
+Skills:
+React.js | MongoDB | PHP | mySQL | JavaScript | HTML | CSS
+
+- ⚡ I’m currently learning symfony. 
 <!--
 **chakir-elarabi/chakir-elarabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
