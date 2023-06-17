@@ -7,7 +7,7 @@ My name is Chakir, and I am a curious and driven 21-year-old FULL STACK develope
 Skills:
 React.js | MongoDB | PHP | Python | mySQL | JavaScript | HTML | CSS
 
-- ⚡ I’m currently learning symfony. 
+- ⚡ I’m currently learning laravel. 
 <!--
 **chakir-elarabi/chakir-elarabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
