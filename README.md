@@ -47,41 +47,6 @@ Junior full stack developer who thrives on turning ideas into sleek, functional 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 
-## 💼 Professional Experience
-
-### **Full Stack Developer (Freelance)**  
-`Dec 2023 - Present` | Marrakech  
-- Developed full stack applications using Laravel API + Next.js + Tailwind CSS
-- Built production-ready websites with order management and real-time features
-- Configured servers and databases for deployment
-
-### **Web Developer Intern** @ Oriental Group  
-`Oct 2024 - Nov 2024` | Marrakech  
-- Managed WordPress sites and performed SEO optimizations
-- Led dev/marketing teams and resolved technical issues
-
-### **Full Stack Developer Intern** @ Integral Progress Technologie  
-`Jul 2024 - Aug 2024` | Marrakech  
-- Built HR recruitment module with Laravel APIs + React/TypeScript
-- Collaborated using Git for version control
-
-## 🎓 Education
-- **Specialized Technician Diploma in Full Stack Web Development**  
-  ISTA NTIC SYBA Marrakech | `2021 - 2023`
-
-- **High School Diploma (Baccalaureate)**  
-  Lycée Sahnoun Marrakech | `2019 - 2020`
-
-## 🌟 Featured Projects
-
-### Food Ordering Platform
-`Laravel` `Next.js` `Tailwind CSS`  
-Full stack application with real-time order tracking and payment integration
-
-### Business Website Redesign
-`Next.js` `Tailwind CSS`  
-Modern responsive website with improved SEO and performance
-
 ## 🎨 Beyond Code
 When I'm not coding, you can find me:
 - 🎬 Watching films (check my [Letterboxd](https://letterboxd.com/codewithchakir))
@@ -91,7 +56,6 @@ When I'm not coding, you can find me:
 ## 📬 Let's Connect
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakir.elarabi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithchakir)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithchakir)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithchakir)
 
 ```javascript
